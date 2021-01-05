@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["parity_tokio_ipc"] = [{"text":"impl Sync for SecurityAttributes","synthetic":true,"types":[]},{"text":"impl Sync for Endpoint","synthetic":true,"types":[]},{"text":"impl Sync for Connection","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

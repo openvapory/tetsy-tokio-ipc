@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["parity_tokio_ipc"] = [{"text":"impl UnwindSafe for SecurityAttributes","synthetic":true,"types":[]},{"text":"impl UnwindSafe for Endpoint","synthetic":true,"types":[]},{"text":"impl !UnwindSafe for Connection","synthetic":true,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
