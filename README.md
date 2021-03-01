@@ -1,8 +1,8 @@
-# parity-tokio-ipc
+# tetsy-tokio-ipc
 
-[![Build Status](https://travis-ci.org/NikVolf/parity-tokio-ipc.svg?branch=master)](https://travis-ci.org/NikVolf/parity-tokio-ipc)
+[![Build Status](https://travis-ci.org/openvapory/tetsy-tokio-ipc.svg?branch=master)](https://travis-ci.org/openvapory/tetsy-tokio-ipc)
 
-[Documentation](https://nikvolf.github.io/parity-tokio-ipc)
+[Documentation](https://openvapory.github.io/tetsy-tokio-ipc)
 
 This crate abstracts interprocess transport for UNIX/Windows. On UNIX it utilizes unix sockets (`tokio_uds` crate) and named pipe on windows (experimental `tokio-named-pipes` crate).
 
@@ -21,7 +21,7 @@ And IpcStream is transport-agnostic io:
 
 # License
 
-`parity-tokio-ipc` is primarily distributed under the terms of both the MIT
+`tetsy-tokio-ipc` is primarily distributed under the terms of both the MIT
 license and the Apache License (Version 2.0), with portions covered by various
 BSD-like licenses.
 

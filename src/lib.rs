@@ -46,9 +46,9 @@ pub fn dummy_endpoint() -> String {
 /// ```
 /// extern crate tokio;
 /// extern crate futures;
-/// extern crate parity_tokio_ipc;
+/// extern crate tetsy_tokio_ipc;
 ///
-/// use parity_tokio_ipc::{Endpoint, dummy_endpoint};
+/// use tetsy_tokio_ipc::{Endpoint, dummy_endpoint};
 /// use futures::{future, Future, Stream};
 ///
 /// fn main() {
